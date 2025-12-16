@@ -8,7 +8,7 @@
         <div class="hero-content flex-col">
             <div class="card w-96 bg-base-100">
                 <div class="card-body">
-                    <h1 class="text-3xl font-bold text-center mb-6">Welcome Back</h1>
+                    <h1 class="text-xl mt-1 font-bold text-center mb-6">Welcome Back</h1>
 
                     <form method="POST" action="/login">
                         @csrf
